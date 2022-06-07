@@ -1,0 +1,59 @@
+***************************************************************
+* THIS FILE CONTAINS THE VALUES OF THE PARAMETERS REQUIRED    *
+* FOR THE GEOMOD MODULE, WHICH AUTOMATICALLY IS GENERATED IN  *
+* IDRISI. STRONGLY RECOMMEND REEDITING IN IDRISI IF NECESSARY.*
+***************************************************************
+
+TIME TO BEGIN GEOMOD, INCLUSIVE         :    2010
+TIME TO END GEOMOD, INCLUSIVE           :    2016
+TIME STEP IN TIME UNITS                 :    1
+
+# NEIGHBORS AWAY TO SEARCH,0=NO NIBBLE  :    0
+WRITE DEBUG OUTPUT TO LOG FILE,YES=1    :    0
+NAME OF STRATA/MASK IMAGE               :    BR_states
+NAME OF INITIAL LANDUSE IMAGE           :    loss0510
+DO ENVIR. IMPACT ANALYSIS? 1=YES, 0=NO  :    0
+CMP/READ SUITABILITY SCORES(0=CP,1=RD)  :    0
+NUMBER OF RUNS ONCE                     :    1
+NUMBER OF PERMANENT DRIVER IMAGES       :    4
+DRIVER IMAGE 1                          :    br_elevation4
+DRIVER IMAGE 2                          :    BR_protection2
+DRIVER IMAGE 3                          :    BR_popDensity
+DRIVER IMAGE 4                          :    nonforest2000distance3
+   DRIVER1   DRIVER2   DRIVER3   DRIVER4
+    0.2500    0.2500    0.2500    0.2500
+DO VALIDATION ANALYSIS? 1=YES, 0=NO     :    0
+SINCE NO VALIDATION IMAGE, LANDUSE CHANGE INFO READ FROM FOLLOWS:
+                                  LANDUSE STATE 1       LANDUSE STATE 2
+RGNVAL          REGION NAME    # CELLS      BEGIN        END      BEGIN        END
+     1                 Acre     153571     265499     261945       3554       7108
+     2              Alagoas      28379       5636       4936        700       1400
+     3                Amapa     141808     232498     231840        658       1316
+     4             Amazonas    1572700    2950206    2942892       7314      14628
+     5                Bahia     566963     477235     455105      22130      44260
+     6                Ceara     148283     191982     180407      11575      23150
+     7     Distrito Federal       5915       2139       2010        129        258
+     8       Espirito Santo      46727      14908      14089        819       1638
+     9                Goias     340395     144998     132243      12755      25510
+    10             Maranhao     332206     401988     382864      19124      38248
+    11          Mato Grasso     904886     934124     892607      41517      83034
+    12   Mato Grasso do Sul     356603     116461     107705       8756      17512
+    13         Minas Gerais     587380     289578     269402      20176      40352
+    14                 Para    1238841    1827161    1779223      47938      95876
+    15              Paraiba      57307      44404      40883       3521       7042
+    16               Parana     198864      80894      74899       5995      11990
+    17           Pernambuco      97312      82545      78565       3980       7960
+    18                Piaui     250698     394778     386555       8223      16446
+    19       Rio de Janiero      43842      21524      20857        667       1334
+    20  Rio Grande do Norte      52549      38957      36754       2203       4406
+    21    Rio Grande do Sul     274053      65131      60143       4988       9976
+    22             Rondonia     236278     260364     247660      12704      25408
+    23              Roraima     222999     323908     321783       2125       4250
+    24       Santa Catarina      94348      67998      63515       4483       8966
+    25            Sao Paulo     248388      71016      67742       3274       6548
+    26              Sergipe      21589       3333       2891        442        884
+    27            Tocantins     274698     283523     271528      11995      23990
+
+# OF TIMES OF OUTPUT BESIDE END TIME    :    0
+NAME OF OUTPUT LANDUSE IMAGE            :    foo_cal_len6_
+

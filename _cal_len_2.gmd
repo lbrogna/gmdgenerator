@@ -1,0 +1,27 @@
+***************************************************************
+* THIS FILE CONTAINS THE VALUES OF THE PARAMETERS REQUIRED    *
+* FOR THE GEOMOD MODULE, WHICH AUTOMATICALLY IS GENERATED IN  *
+* IDRISI. STRONGLY RECOMMEND REEDITING IN IDRISI IF NECESSARY.*
+***************************************************************
+
+TIME TO BEGIN GEOMOD, INCLUSIVE         :    2010
+TIME TO END GEOMOD, INCLUSIVE           :    2012
+TIME STEP IN TIME UNITS                 :    1
+
+# NEIGHBORS AWAY TO SEARCH,0=NO NIBBLE  :    0
+WRITE DEBUG OUTPUT TO LOG FILE,YES=1    :    0
+NAME OF STRATA/MASK IMAGE               :    N/A
+NAME OF INITIAL LANDUSE IMAGE           :    simloss_2000_2020_suitability_1.rst
+DO ENVIR. IMPACT ANALYSIS? 1=YES, 0=NO  :    0
+CMP/READ SUITABILITY SCORES(0=CP,1=RD)  :    0
+NUMBER OF RUNS ONCE                     :    1
+SUITABILITY IMAGE FOR SIMULATION ?      :    Template_suitability_2.rst
+DO VALIDATION ANALYSIS? 1=YES, 0=NO     :    0
+SINCE NO VALIDATION IMAGE, LANDUSE CHANGE INFO READ FROM FOLLOWS:
+                                  LANDUSE STATE 1       LANDUSE STATE 2
+RGNVAL          REGION NAME    # CELLS      BEGIN        END      BEGIN        END
+     1             Region 1    8528730    4931595    4876990    3597135    3651740
+
+# OF TIMES OF OUTPUT BESIDE END TIME    :    0
+NAME OF OUTPUT LANDUSE IMAGE            :    jjj_cal_len2
+
