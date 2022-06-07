@@ -1,0 +1,55 @@
+file format : IDRISI Raster A.1
+file title  : States
+data type   : byte
+file type   : binary
+columns     : 4288
+rows        : 4288
+ref. system : cylea15
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : -7988000.0000000
+max. X      : -3700000.0000000
+min. Y      : -3668000.0000000
+max. Y      : 620000.0000000
+pos'n error : unknown
+resolution  : 1000
+min. value  : 0
+max. value  : 27
+display min : 0
+display max : 27
+value units : unspecified
+value error : unknown
+flag value  : 0
+flag def'n  : background
+legend cats : 27
+code      1 : Acre
+code      2 : Alagoas
+code      3 : Amapa
+code      4 : Amazonas
+code      5 : Bahia
+code      6 : Ceara
+code      7 : Distrito Federal
+code      8 : Espirito Santo
+code      9 : Goias
+code     10 : Maranhao
+code     11 : Mato Grasso
+code     12 : Mato Grasso do Sul
+code     13 : Minas Gerais
+code     14 : Para
+code     15 : Paraiba
+code     16 : Parana
+code     17 : Pernambuco
+code     18 : Piaui
+code     19 : Rio de Janiero
+code     20 : Rio Grande do Norte
+code     21 : Rio Grande do Sul
+code     22 : Rondonia
+code     23 : Roraima
+code     24 : Santa Catarina
+code     25 : Sao Paulo
+code     26 : Sergipe
+code     27 : Tocantins
+lineage     : This file was created by the OVERLAY module with the command line:
+lineage     : 3*C:\Users\Luke\Desktop\GEOGAssignments\GEOG260Drivers\GEOG260Drivers2\luke_cylea\luke_cylea\TMP-1.rst*C:\Users\Luke\Desktop\GEOGAssignments\GEOG260Drivers\GEOG260Drivers2\luke_cylea\luke_cylea\NEWMASK.rst*C:\Users\Luke\Desktop\GEOGAssignments\GEOG260Drivers\GEOG260Drivers2\luke_cylea\luke_cylea\TMP-2.rst
+comment     : Created by Luke Brogna (lbrogna@clarku.edu) and Claire Wang (clwang@clarku.edu) on November 10, 2021.
+comment     : Collection year can be found in the file title if applicable.
