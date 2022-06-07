@@ -1,0 +1,33 @@
+file format : IDRISI Raster A.1
+file title  : 
+data type   : byte
+file type   : binary
+columns     : 4288
+rows        : 4288
+ref. system : cylea15
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : -7988000.0000000
+max. X      : -3700000.0000000
+min. Y      : -3668000.0000000
+max. Y      : 620000.0000000
+pos'n error : unknown
+resolution  : 1000.0000000
+min. value  : 0
+max. value  : 2
+display min : 0
+display max : 2
+value units : unspecified
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by the RECLASS module with the command line: 
+lineage     : I*C:\Users\Luke\Desktop\GEOGAssignments\GEOG260Drivers\GEOG260Drivers2\product\Loss0020b.rst*C:\Users\Luke\Desktop\GEOGAssignments\ThesisWorking\loss0910.rst*3*C:\Users\Luke\Desktop\GEOGAssignments\ThesisWorking\idrtemp.rcl*1
+lineage     : File C:\Users\Luke\Desktop\GEOGAssignments\ThesisWorking\idrtemp.rcl contains the following:
+lineage     :     0 0 2
+lineage     :     0 23 25
+lineage     :     0 2 11
+lineage     :     2 11 12
+lineage     :     1 12 23
+lineage     :     -9999
